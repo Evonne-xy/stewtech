@@ -1,0 +1,653 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Side Menu Lite\n"
+"POT-Creation-Date: 2019-01-30 09:23+0200\n"
+"PO-Revision-Date: 2019-01-30 09:22+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: side-menu-lite.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: admin/class-admin.php:66
+msgid "More features in the PRO version"
+msgstr ""
+
+#: admin/class-admin.php:171
+msgid "Settings"
+msgstr ""
+
+#: admin/class-admin.php:180
+#, php-format
+msgid "Thank you for using <a href=\"%1$s\" target=\"_blank\">"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:20 admin/partials/add-new/menu.php:23
+msgid "Item "
+msgstr ""
+
+#: admin/partials/add-new/clone.php:31 admin/partials/add-new/menu.php:34
+msgid "Icon"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:37 admin/partials/add-new/menu.php:41
+msgid "Label Text"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:43 admin/partials/add-new/menu.php:47
+msgid "Hold Open"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:50 admin/partials/add-new/menu.php:54
+msgid "Item type"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:65 admin/partials/add-new/menu.php:70
+msgid "Open in new window"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:71 admin/partials/add-new/menu.php:76
+msgid "Font Сolor"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:77 admin/partials/add-new/menu.php:82
+msgid "Icon Сolor"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:83 admin/partials/add-new/menu.php:88
+msgid "Background"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:92 admin/partials/add-new/menu.php:97
+msgid "Background Hover"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:99 admin/partials/add-new/menu.php:104
+msgid "ID for element"
+msgstr ""
+
+#: admin/partials/add-new/clone.php:105 admin/partials/add-new/menu.php:110
+msgid "Class for element"
+msgstr ""
+
+#: admin/partials/add-new/main.php:20
+msgid "Position"
+msgstr ""
+
+#: admin/partials/add-new/main.php:25
+msgid "Vertical alignment"
+msgstr ""
+
+#: admin/partials/add-new/main.php:32
+msgid "Offset"
+msgstr ""
+
+#: admin/partials/add-new/main.php:42
+msgid "Item Width"
+msgstr ""
+
+#: admin/partials/add-new/main.php:46
+msgid "Item Height"
+msgstr ""
+
+#: admin/partials/add-new/main.php:50
+msgid "Space between items"
+msgstr ""
+
+#: admin/partials/add-new/main.php:57
+msgid "Font size"
+msgstr ""
+
+#: admin/partials/add-new/main.php:61
+msgid "Font style"
+msgstr ""
+
+#: admin/partials/add-new/main.php:67
+msgid "Font weight"
+msgstr ""
+
+#: admin/partials/add-new/main.php:76
+msgid "Icon size"
+msgstr ""
+
+#: admin/partials/add-new/main.php:80
+msgid "Custom image width"
+msgstr ""
+
+#: admin/partials/add-new/main.php:87
+msgid "Border width"
+msgstr ""
+
+#: admin/partials/add-new/main.php:94
+msgid "Top border radius"
+msgstr ""
+
+#: admin/partials/add-new/main.php:101
+msgid "Bottom border radius"
+msgstr ""
+
+#: admin/partials/add-new/main.php:108
+msgid "Border color"
+msgstr ""
+
+#: admin/partials/add-new/menu.php:125
+msgid "Add item"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:13
+msgid "All posts and pages"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:14
+msgid "Where shortcode is inserted"
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:29
+msgid "Choose a condition to target to specific content."
+msgstr ""
+
+#: admin/partials/add-new/settings/add-new.php:31
+msgid ""
+"Specific content: All posts, All pages, Posts with certain IDs, Pages with "
+"certain IDs, Posts in Categorys with IDs, All posts except, All pages "
+"except, Taxonomy"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:33
+#: admin/partials/add-new/settings/menu.php:73
+msgid "Link"
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:59
+msgid "Set ID for element."
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:69
+msgid "Set Class for element."
+msgstr ""
+
+#: admin/partials/add-new/settings/clone.php:71
+#: admin/partials/add-new/settings/menu.php:233
+msgid "You may enter several classes separated by a space."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:24
+msgid "Left"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:25
+msgid "Right"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:31
+msgid "Specify menu position on screen."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:42
+msgid "Center"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:49
+msgid "Specify the vertical positioning of the menu."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:68
+msgid "Offset from base position on screen in (px)."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:85
+msgid "The width of the menu items when hovering on the element in (px)."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:102
+#: admin/partials/add-new/settings/main.php:120
+msgid "The height of the menu items in (px)."
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:139
+msgid "Set the font size for label content in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:163
+msgid "Normal"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:183
+msgid "Set the size for icon in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:205
+msgid "Set the size for Custom icon in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:223
+msgid "Set the border width for menu items in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:242
+msgid "Set the radius for the menu item top corner in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:263
+msgid "Set the radius for the menu item bottom corner in px"
+msgstr ""
+
+#: admin/partials/add-new/settings/main.php:276
+msgid "Set the border color"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:50
+msgid "Enter Icon URL"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:113
+msgid "Facebook"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:114
+msgid "VK"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:115
+msgid "Twitter"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:116
+msgid "Linkedin"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:117
+msgid "Odnoklassniki"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:118
+msgid "Google"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:119
+msgid "Pinterest"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:120
+msgid "XING"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:121
+msgid "Myspace"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:122
+msgid "Weibo"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:123
+msgid "Buffer"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:124
+msgid "StumbleUpon"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:125
+msgid "Reddit"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:126
+msgid "Tumblr"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:127
+msgid "Blogger"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:128
+msgid "LiveJournal"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:129
+msgid "Pocket"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:130
+msgid "Telegram"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:131
+msgid "Skype"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:132
+msgid "Email"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:201
+msgid "Set the icon for menu item. If you want use the custom item:"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:203
+msgid "1. Check the box on \"custom\""
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:204
+msgid "2. Upload the icon in Media Library"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:205
+msgid "3. Copy the URL to icon"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:206
+msgid "4. Paste the icon URL to field"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:211
+msgid "Set the text for menu item."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:215
+msgid "Select the type of menu item. Explanation of some types:"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:217
+msgid ""
+"<strong>Smooth Scroll</strong> - Smooth scrolling of the page to the "
+"specified anchors on the page."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:218
+msgid ""
+"<strong>ShiftNav Menu</strong> - open the menu, wich create via the plugin "
+"ShiftNav."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:223
+msgid "When the page loads, the menu item will open."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:227
+msgid "Set the attribute ID for the menu item or left empty."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:231
+msgid "Set the attribute CLASS for the menu item or left empty."
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:237
+msgid "Set custom icon"
+msgstr ""
+
+#: admin/partials/add-new/settings/menu.php:239
+msgid ""
+"Additional types: Share, Print, Scroll to Top, Smooth Scroll, Email, "
+"Telephone, Login, Logout, Register, Lostpassword, ShiftNav Menu"
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:25
+msgid "Specify the window breakpoint in px when the button will be shown."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:53
+msgid "Specify the window breakpoint ( mix width) in px."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:78
+#: admin/partials/add-new/settings/targeting.php:90
+msgid "All Users"
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:79
+msgid "Authorized Users"
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:80
+msgid "Unauthorized Users"
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:195
+msgid "Disable Font Awesome 5 style on front-end of the site."
+msgstr ""
+
+#: admin/partials/add-new/settings/targeting.php:197
+msgid ""
+"If you already have a Font Awesome 5 installed on the site, you can disable "
+"the include the Font Awesome 5 style."
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:18
+msgid "Targeting"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:22
+msgid "Show on devices"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:24
+msgid "Don't show on screens more"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:28
+msgid "Don't show on screens less"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:35
+msgid "Show for users"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:43
+msgid "Depending on the language"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:45
+msgid "Enable"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:52
+msgid "Font Awesome 5 style"
+msgstr ""
+
+#: admin/partials/add-new/targeting.php:54
+msgid "Disable"
+msgstr ""
+
+#: admin/partials/add_new.php:22
+msgid "Register an item name"
+msgstr ""
+
+#: admin/partials/add_new.php:30
+msgid "Publish"
+msgstr ""
+
+#: admin/partials/add_new.php:46
+msgid "Delete"
+msgstr ""
+
+#: admin/partials/add_new.php:70
+msgid "Style"
+msgstr ""
+
+#: admin/partials/add_new.php:71
+msgid "Menu"
+msgstr ""
+
+#: admin/partials/class-list-table.php:226
+msgid "Untitle"
+msgstr ""
+
+#: admin/partials/include-data.php:24 admin/partials/main.php:74
+msgid "Update"
+msgstr ""
+
+#: admin/partials/include-data.php:37 admin/partials/include-data.php:47
+msgid "Save"
+msgstr ""
+
+#: admin/partials/items.php:91 includes/about/wow-plugins.php:93
+msgid "Active Installs"
+msgstr ""
+
+#: admin/partials/list.php:20
+msgid "Search"
+msgstr ""
+
+#: admin/partials/main.php:20
+msgid "List"
+msgstr ""
+
+#: admin/partials/main.php:21
+msgid "Add new"
+msgstr ""
+
+#: admin/partials/main.php:22
+msgid "Pro Features"
+msgstr ""
+
+#: admin/partials/main.php:23
+msgid "Support"
+msgstr ""
+
+#: admin/partials/main.php:24 includes/about/main.php:108
+msgid "Plugins"
+msgstr ""
+
+#: admin/partials/main.php:57
+msgid "Add New"
+msgstr ""
+
+#: admin/partials/main.php:63
+#, php-format
+msgid ""
+"We want to hear your Ideas about improving the plugin. <a href=\"%1$s\" "
+"target=\"_blank\">Send Message</a>!"
+msgstr ""
+
+#: admin/partials/support.php:64
+msgid "Please, Enter your First Name."
+msgstr ""
+
+#: admin/partials/support.php:67
+msgid "Please, Enter your Last Name."
+msgstr ""
+
+#: admin/partials/support.php:70
+msgid "Please, Enter your Message."
+msgstr ""
+
+#: admin/partials/support.php:73
+msgid "Please, Enter your Email."
+msgstr ""
+
+#: admin/partials/support.php:102
+msgid "Your Message sent to the Support."
+msgstr ""
+
+#: admin/partials/support.php:108
+msgid ""
+"Sorry, but message did not send. Please, contact us support@wow-company.com"
+msgstr ""
+
+#: admin/partials/support.php:118
+msgid "First Name"
+msgstr ""
+
+#: admin/partials/support.php:120
+msgid "Enter Your First Name"
+msgstr ""
+
+#: admin/partials/support.php:123
+msgid "Last Name"
+msgstr ""
+
+#: admin/partials/support.php:125
+msgid "Enter Your Last Name"
+msgstr ""
+
+#: admin/partials/support.php:130
+msgid "WebSite"
+msgstr ""
+
+#: admin/partials/support.php:134
+msgid "Contact email"
+msgstr ""
+
+#: admin/partials/support.php:142
+msgid "Plugin"
+msgstr ""
+
+#: admin/partials/support.php:148
+msgid "Message type"
+msgstr ""
+
+#: admin/partials/support.php:150
+msgid "Issue"
+msgstr ""
+
+#: admin/partials/support.php:151
+msgid "Idea"
+msgstr ""
+
+#: admin/partials/support.php:159
+msgid "Enter Your Message"
+msgstr ""
+
+#: admin/partials/support.php:165
+msgid "Send to Support"
+msgstr ""
+
+#: admin/partials/tools-data-base.php:16
+msgid "Record Added"
+msgstr ""
+
+#: admin/partials/tools-data-base.php:19
+msgid "Record Updated"
+msgstr ""
+
+#: admin/partials/tools-data-base.php:25
+msgid "Record Deleted"
+msgstr ""
+
+#: includes/about/main.php:95
+msgid "Welcome"
+msgstr ""
+
+#: includes/about/main.php:98
+msgid ""
+"Congratulations! You are about to use one of the plugins from Wow-Company."
+msgstr ""
+
+#: side-menu-lite.php:67 side-menu-lite.php:72
+msgid "Cheatin&#8217; huh?"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Side Menu Lite"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/side-menu-lite/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Provide any extra content and functionality with the attention-grabbing side "
+"menu!"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Wow-Company"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "https://wow-estore.com/"
+msgstr ""

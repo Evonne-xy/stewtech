@@ -1,0 +1,51 @@
+
+---Downloaded files---
+The import files for: Business I were successfully downloaded!
+Initial max execution time = 120
+Files info:
+Site URL = https://www.stewtech.cf
+Data file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/03/colibri-wp-ocdi/demo-content-import-file_2021-03-25__04-18-37.xml
+Widget file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/03/colibri-wp-ocdi/demo-widgets-import-file_2021-03-25__04-18-37.json
+Customizer file = /opt/bitnami/apps/wordpress/htdocs/wp-content/uploads/2021/03/colibri-wp-ocdi/demo-customizer-import-file_2021-03-25__04-18-37.dat
+Redux files:
+not defined!
+
+---extendthemes-ocdi/before_content_import---
+
+
+--- Colibri Importer ---
+[INFO] - Installed Plugin: contact-form-7/wp-contact-form-7.php
+
+--- Colibri Importer ---
+[INFO] - Plugins instalantion requests new ajax call
+
+------
+New AJAX call!
+
+
+---Importing widgets---
+Blog sidebar widget area : 
+
+Search - No Title - Widget already exists
+Recent Posts - No Title - Imported
+Recent Comments - No Title - Widget already exists
+Archives - No Title - Imported
+Categories - No Title - Imported
+Meta - No Title - Imported
+
+newsletter_subscriber_widgets : Sidebar does not exist in theme (moving widget to Inactive)
+
+Search - No Title - Imported to Inactive
+Recent Posts - No Title - Imported to Inactive
+Recent Comments - No Title - Imported to Inactive
+Archives - No Title - Widget already exists
+Categories - No Title - Widget already exists
+Meta - No Title - Widget already exists
+
+
+
+---Importing customizer settings---
+Customizer settings import finished!
+
+---extendthemes-ocdi/after_import---
+
