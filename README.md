@@ -1,8 +1,8 @@
 # stewtech
 
-WebSite URL(网站地址): www.stewtech.cf
+# WebSite URL(网站地址): www.stewtech.cf
 
-PASSWORD（网站密码）: SafeTravelEco-FriendlyWorld-WAYYM!MA04
+# PASSWORD（网站密码）: SafeTravelEco-FriendlyWorld-WAYYM!MA04
 
 
 
